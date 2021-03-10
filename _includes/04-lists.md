@@ -1,4 +1,3 @@
-This is a list of some of my favorite things:
 1. Coding 💻
 2. Reading 📖
 3. Soccer ⚽
